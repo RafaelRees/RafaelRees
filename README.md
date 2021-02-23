@@ -1,6 +1,6 @@
 # Olá mundo👋 sou ✨*Rafael*✨
 
-<p> <img src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif" width="398" height="250" align="left">
+<p> <img src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif" width="400" height="235" align="left">
 🇧🇷 Nacionalidade: Brasileiro.<br/p>
 📅 Data de nascimento: 14/04/1999.<br/p>
 📚 Estudante de Engenharia da Computação na UERGS.<br/p>
@@ -11,8 +11,7 @@
 🚀 Pretendo aprender: HTML, PHP, MySQL, Java.<br/p> 
 ⚡ Fato curioso: Adoro jogar e conversar com os amigos.<br/p>
 🎮 Jogos: Dota2 / LoL / Gw2 / WoW.<br/p>
-</p>
-    
+</p> 
     
 ## Tabela das cadeiras a serem cursadas em 2021/1
 |   Horário   |Segunda            |Terça                   |Quarta  |Quinta                     |Sexta                        |
