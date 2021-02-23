@@ -13,6 +13,7 @@
 🎮 Jogos: Dota2 / LoL / Gw2 / WoW.<br/p>
 </p>
     
+    
 ## Tabela das cadeiras a serem cursadas em 2021/1
 |   Horário   |Segunda            |Terça                   |Quarta  |Quinta                     |Sexta                        |
 |-------------|-------------------|------------------------|--------|---------------------------|-----------------------------|
