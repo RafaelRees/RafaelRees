@@ -4,7 +4,7 @@
 🇧🇷 Nacionalidade: Brasileiro.<br/p>
 📅 Data de nascimento: 14/04/1999.<br/p>
 📚 Estudante de Engenharia da Computação na UERGS.<br/p>
-🤓 A procura do meu primeiro estágio na área.<br/p> 
+🤓 Atualmente trabalhando na Wipro.<br/p> 
 💡 Eu amo inovação e novas tecnologias.<br/p>
 📈 2021: contribuir com mais projetos.<br/p>
 💻 Começando a aprender: VisualStudioCode, Python e C++.<br/p>
@@ -14,16 +14,17 @@
 </p> 
     
 ## Tabela das cadeiras a serem cursadas em 2021/1
-|   Horário   |Segunda            |Terça                   |Quarta  |Quinta                     |Sexta                        |
-|-------------|-------------------|------------------------|--------|---------------------------|-----------------------------|
-| 08:15-09:05 |Tópicos de Robótica|Processamento de Imagens|Fisica 1|Algoritimos e Programação 1|Arquitetura de Computadores 1|    
-| 09:05-09:55 |Tópicos de Robótica|Processamento de Imagens|Fisica 1|Algoritimos e Programação 1|Arquitetura de Computadores 1|    
-| 10:05-10:55 |Tópicos de Robótica|Processamento de Imagens|Fisica 1|Algoritimos e Programação 1|Arquitetura de Computadores 1| 
-| 10:55-11:45 |Tópicos de Robótica|Processamento de Imagens|Fisica 1|Algoritimos e Programação 1|Arquitetura de Computadores 1|  
-| 13:30-14:20 |   Epistemologia   |                        |        |                           |                             |  
-| 14:20-15:10 |   Epistemologia   |                        |        |                           |                             |  
-| 15:20-16:10 |                   |                        |        |                           |                             |  
-| 16:10-17:00 |                   |                        |        |                           |                             |  
+|   Horário   |     Segunda       |       Terça        |    Quarta     | Quinta | Sexta |
+|-------------|-------------------|--------------------|---------------|--------|-------|
+| 08:15-09:05 | Sistemas Digitais | Estrutura de Dados |               |        |       |    
+| 09:05-09:55 | Sistemas Digitais | Estrutura de Dados |               |        |       |    
+| 10:05-10:55 | Sistemas Digitais | Estrutura de Dados | Epistemologia |        |       | 
+| 10:55-11:45 | Sistemas Digitais | Estrutura de Dados | Epistemologia |        |       |  
+| 13:30-14:20 | Calculo Vetorial  |                    |  Met. Cient.  |        |       |  
+| 14:20-15:10 | Calculo Vetorial  |                    |  Met. Cient.  |        |       |  
+| 15:20-16:10 | Calculo Vetorial  |                    |               |        |       |  
+| 16:10-17:00 | Calculo Vetorial  |                    |               |        |       |
+| 13:30-14:20 | Calculo Vetorial  |                    |               |        |       | 
 
 
 
