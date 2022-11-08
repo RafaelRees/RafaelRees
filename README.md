@@ -6,7 +6,7 @@
 📚 Estudante de Engenharia da Computação na UERGS.<br/p>
 🤓 Atualmente trabalhando na Wipro.<br/p> 
 💡 Eu amo inovação e novas tecnologias.<br/p>
-📈 2021: contribuir com mais projetos.<br/p>
+📈 2022: contribuir com mais projetos.<br/p>
 💻 Começando a aprender: VisualStudioCode, Python e C++.<br/p>
 🚀 Pretendo aprender: HTML, PHP, MySQL, Java.<br/p> 
 ⚡ Fato curioso: Adoro jogar e conversar com os amigos.<br/p>
@@ -14,17 +14,20 @@
 </p> 
     
 ## Tabela das cadeiras a serem cursadas em 2021/1
-|   Horário   |     Segunda       |       Terça        |    Quarta     | Quinta | Sexta |
-|-------------|-------------------|--------------------|---------------|--------|-------|
-| 08:15-09:05 | Sistemas Digitais | Estrutura de Dados |               |        |       |    
-| 09:05-09:55 | Sistemas Digitais | Estrutura de Dados |               |        |       |    
-| 10:05-10:55 | Sistemas Digitais | Estrutura de Dados | Epistemologia |        |       | 
-| 10:55-11:45 | Sistemas Digitais | Estrutura de Dados | Epistemologia |        |       |  
-| 13:30-14:20 | Calculo Vetorial  |                    |  Met. Cient.  |        |       |  
-| 14:20-15:10 | Calculo Vetorial  |                    |  Met. Cient.  |        |       |  
-| 15:20-16:10 | Calculo Vetorial  |                    |               |        |       |  
-| 16:10-17:00 | Calculo Vetorial  |                    |               |        |       |
-| 13:30-14:20 | Calculo Vetorial  |                    |               |        |       | 
+| Horário     | Segunda           | Terça              | Quarta        | Quinta   | Sexta    |
+|-------------|-------------------|--------------------|---------------|----------|----------|
+| 08:15-09:05 | Sistemas Digitais | Estrutura de Dados |---------------| Trabalho | Trabalho |    
+| 09:05-09:55 | Sistemas Digitais | Estrutura de Dados |---------------| Trabalho | Trabalho |    
+| 10:05-10:55 | Sistemas Digitais | Estrutura de Dados | Epistemologia | Trabalho | Trabalho |
+| 10:55-11:45 | Sistemas Digitais | Estrutura de Dados | Epistemologia | Trabalho | Trabalho |
+| 12:00-13:00 | Almoco            | Almoco             | Almoco        | Almoco   | Almoco   |
+| 13:30-14:20 | Calculo Vetorial  | Trabahlo           | Met. Cient.   | Trabalho | Trabalho |
+| 14:20-15:10 | Calculo Vetorial  | Trabahlo           | Met. Cient.   | Trabalho | Trabalho |
+| 15:20-16:10 | Calculo Vetorial  | Trabahlo           | Trabahlo      | Trabalho | Trabalho |
+| 16:10-17:00 | Calculo Vetorial  | Trabahlo           | Trabahlo      | Trabalho | Trabalho |
+| 17:00-18:00 |-------------------| Trabahlo           | Trabahlo      | Trabalho | Trabalho |
+| 18:00-19:00 | Janta             | Janta              | Janta         | Janta    | Janta    |
+| 19:00-22:00 | Trabahlo          | Trabahlo           | Trabahlo      | Trabalho | Trabalho |
 
 
 
