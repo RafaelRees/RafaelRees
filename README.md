@@ -21,13 +21,13 @@
 | 10:05-10:55 | Sistemas Digitais | Estrutura de Dados | Epistemologia | Trabalho | Trabalho |
 | 10:55-11:45 | Sistemas Digitais | Estrutura de Dados | Epistemologia | Trabalho | Trabalho |
 | 12:00-13:00 | Almoco            | Almoco             | Almoco        | Almoco   | Almoco   |
-| 13:30-14:20 | Calculo Vetorial  | Trabahlo           | Met. Cient.   | Trabalho | Trabalho |
-| 14:20-15:10 | Calculo Vetorial  | Trabahlo           | Met. Cient.   | Trabalho | Trabalho |
-| 15:20-16:10 | Calculo Vetorial  | Trabahlo           | Trabahlo      | Trabalho | Trabalho |
-| 16:10-17:00 | Calculo Vetorial  | Trabahlo           | Trabahlo      | Trabalho | Trabalho |
-| 17:00-18:00 |-------------------| Trabahlo           | Trabahlo      | Trabalho | Trabalho |
+| 13:30-14:20 | Calculo Vetorial  | Trabalho           | Met. Cient.   | Trabalho | Trabalho |
+| 14:20-15:10 | Calculo Vetorial  | Trabalho           | Met. Cient.   | Trabalho | Trabalho |
+| 15:20-16:10 | Calculo Vetorial  | Trabalho           | Trabalho      | Trabalho | Trabalho |
+| 16:10-17:00 | Calculo Vetorial  | Trabalho           | Trabalho      | Trabalho | Trabalho |
+| 17:00-18:00 |-------------------| Trabalho           | Trabalho      | Trabalho | Trabalho |
 | 18:00-19:00 | Janta             | Janta              | Janta         | Janta    | Janta    |
-| 19:00-22:00 | Trabahlo          | Trabahlo           | Trabahlo      | Trabalho | Trabalho |
+| 19:00-22:00 | Trabalho          | Trabalho           | Trabalho      | Trabalho | Trabalho |
 
 
 
