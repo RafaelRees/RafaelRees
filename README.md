@@ -23,9 +23,9 @@
 | 12:00-13:00 | Almoco   | Almoco   | Almoco        | Almoco         | Almoco        |   
 | 13:00-14:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Lab. Sis. Op. |
 | 14:00-15:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Lab. Sis. Op. |
-| 15:00-16:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Lab. Sis. Op. |
-| 16:00-17:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Lab. Sis. Op. |
-| 17:00-18:00 | Trabalho | Trabalho |---------------| Prog. de Sist. | Lab. Sis. Op. |
+| 15:00-16:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Trabalho      |
+| 16:00-17:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Trabalho      |
+| 17:00-18:00 | Trabalho | Trabalho |---------------|----------------| Trabalho      |
 | 18:00-19:00 | Janta    | Janta    | Janta         | Janta          | Janta         |
 | 19:00-22:00 | Trabalho | Trabalho | Trabalho      | Trabalho       | Trabalho      |
 
