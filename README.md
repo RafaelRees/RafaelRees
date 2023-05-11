@@ -6,14 +6,14 @@
 📚 Estudante de Engenharia da Computação na UERGS.<br/p>
 🤓 Atualmente trabalhando na Wipro.<br/p> 
 💡 Eu amo inovação e novas tecnologias.<br/p>
-📈 2022: contribuir com mais projetos.<br/p>
+📈 2023: contribuir com mais projetos.<br/p>
 💻 Começando a aprender: VisualStudioCode, Python e C++.<br/p>
 🚀 Pretendo aprender: HTML, PHP, MySQL, Java.<br/p> 
 ⚡ Fato curioso: Adoro jogar e conversar com os amigos.<br/p>
 🎮 Jogos: Dota2 / LoL / Gw2 / WoW.<br/p>
 </p> 
     
-## Tabela das cadeiras a serem cursadas em 2022/2
+## Tabela das cadeiras a serem cursadas em 2023/1
 | Horário     | Segunda  | Terça    | Quarta        | Quinta         | Sexta         |
 |-------------|----------|----------|---------------|----------------|---------------|
 | 08:00-09:00 |----------|----------|---------------| Eng. de Soft.  | Sis. Op.      |    
