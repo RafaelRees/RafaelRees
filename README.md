@@ -14,20 +14,20 @@
 </p> 
     
 ## Tabela das cadeiras a serem cursadas em 2022/2
-| Horário     | Segunda           | Terça              | Quarta        | Quinta   | Sexta    |
-|-------------|-------------------|--------------------|---------------|----------|----------|
-| 08:15-09:05 | Sistemas Digitais | Estrutura de Dados |---------------| Trabalho | Trabalho |    
-| 09:05-09:55 | Sistemas Digitais | Estrutura de Dados |---------------| Trabalho | Trabalho |    
-| 10:05-10:55 | Sistemas Digitais | Estrutura de Dados | Epistemologia | Trabalho | Trabalho |
-| 10:55-11:45 | Sistemas Digitais | Estrutura de Dados | Epistemologia | Trabalho | Trabalho |
-| 12:00-13:00 | Almoco            | Almoco             | Almoco        | Almoco   | Almoco   |
-| 13:30-14:20 | Calculo Vetorial  | Trabalho           | Met. Cient.   | Trabalho | Trabalho |
-| 14:20-15:10 | Calculo Vetorial  | Trabalho           | Met. Cient.   | Trabalho | Trabalho |
-| 15:20-16:10 | Calculo Vetorial  | Trabalho           | Trabalho      | Trabalho | Trabalho |
-| 16:10-17:00 | Calculo Vetorial  | Trabalho           | Trabalho      | Trabalho | Trabalho |
-| 17:00-18:00 |-------------------| Trabalho           | Trabalho      | Trabalho | Trabalho |
-| 18:00-19:00 | Janta             | Janta              | Janta         | Janta    | Janta    |
-| 19:00-22:00 | Trabalho          | Trabalho           | Trabalho      | Trabalho | Trabalho |
+| Horário     | Segunda  | Terça    | Quarta        | Quinta         | Sexta         |
+|-------------|----------|----------|---------------|----------------|---------------|
+| 08:00-09:00 |----------|----------|---------------| Eng. de Soft.  | Sis. Op.      |    
+| 09:00-10:00 | Trabalho | Trabalho | Trabalho      | Eng. de Soft.  | Sis. Op.      |    
+| 10:00-11:00 | Trabalho | Trabalho | Trabalho      | Eng. de Soft.  | Sis. Op.      |
+| 11:00-12:00 | Trabalho | Trabalho | Trabalho      | Eng. de Soft.  | Sis. Op.      |
+| 12:00-13:00 | Almoco   | Almoco   | Almoco        | Almoco         | Almoco        |   
+| 13:00-14:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Lab. Sis. Op. |
+| 14:00-15:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Lab. Sis. Op. |
+| 15:00-16:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Lab. Sis. Op. |
+| 16:00-17:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Lab. Sis. Op. |
+| 17:00-18:00 | Trabalho | Trabalho |---------------| Prog. de Sist. | Lab. Sis. Op. |
+| 18:00-19:00 | Janta    | Janta    | Janta         | Janta          | Janta         |
+| 19:00-22:00 | Trabalho | Trabalho | Trabalho      | Trabalho       | Trabalho      |
 
 
 
