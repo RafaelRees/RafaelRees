@@ -4,11 +4,11 @@
 🇧🇷 Nacionalidade: Brasileiro.<br/p>
 📅 Data de nascimento: 14/04/1999.<br/p>
 📚 Estudante de Engenharia da Computação na UERGS.<br/p>
-🤓 Atualmente trabalhando na Wipro.<br/p> 
+🤓 Atualmente procurando oportunidade na area.<br/p> 
 💡 Eu amo inovação e novas tecnologias.<br/p>
 📈 2023: contribuir com mais projetos.<br/p>
 💻 Começando a aprender: VisualStudioCode, Python e C++.<br/p>
-🚀 Pretendo aprender: HTML, PHP, MySQL, Java.<br/p> 
+🚀 Pretendo aprender: HTML, CSS, PHP, MySQL, Java e Ruby.<br/p> 
 ⚡ Fato curioso: Adoro jogar e conversar com os amigos.<br/p>
 🎮 Jogos: Dota2 / LoL / Gw2 / WoW.<br/p>
 </p> 
