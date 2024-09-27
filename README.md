@@ -14,21 +14,24 @@
 </p> 
     
 ## Tabela das cadeiras a serem cursadas em 2023/1
-| Horário     | Segunda  | Terça    | Quarta        | Quinta         | Sexta         |
-|-------------|----------|----------|---------------|----------------|---------------|
-| 08:00-09:00 |----------|----------|---------------| Eng. de Soft.  | Sis. Op.      |    
-| 09:00-10:00 | Trabalho | Trabalho | Trabalho      | Eng. de Soft.  | Sis. Op.      |    
-| 10:00-11:00 | Trabalho | Trabalho | Trabalho      | Eng. de Soft.  | Sis. Op.      |
-| 11:00-12:00 | Trabalho | Trabalho | Trabalho      | Eng. de Soft.  | Sis. Op.      |
-| 12:00-13:00 | Almoco   | Almoco   | Almoco        | Almoco         | Almoco        |   
-| 13:00-14:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Lab. Sis. Op. |
-| 14:00-15:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Lab. Sis. Op. |
-| 15:00-16:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Trabalho      |
-| 16:00-17:00 | Trabalho | Trabalho | Org. de Comp. | Prog. de Sist. | Trabalho      |
-| 17:00-18:00 | Trabalho | Trabalho |---------------|----------------| Trabalho      |
-| 18:00-19:00 | Janta    | Janta    | Janta         | Janta          | Janta         |
-| 19:00-22:00 | Trabalho | Trabalho | Trabalho      | Trabalho       | Trabalho      |
-
+| Horário     | Segunda   | Terça        | Quarta       | Quinta            | Sexta        |
+|-------------|-----------|--------------|--------------|-------------------|--------------|
+| 07:00-08:00 |-----------|--------------|--------------|-------------------|--------------| 
+| 08:00-09:00 |-----------| Gest. e Emp. |--------------| Circuit. Elet. II |--------------|    
+| 09:00-10:00 |-----------| Gest. e Emp. |--------------| Circuit. Elet. II |--------------|    
+| 10:00-11:00 |-----------| Gest. e Emp. |--------------| Circuit. Elet. II |--------------|
+| 11:00-12:00 |-----------| Gest. e Emp. |--------------| Circuit. Elet. II |--------------|
+| 12:00-13:00 | Almoco    | Almoco       | Almoco       | Almoco            |--------------|   
+| 13:00-14:00 | Met. Num. | Fisica IV    |--------------| Fisica III        | Comun. Dados |
+| 14:00-15:00 | Met. Num. | Fisica IV    |--------------| Fisica III        | Comun. Dados |
+| 15:00-16:00 | Met. Num. | Fisica IV    |--------------| Fisica III        | Comun. Dados |
+| 16:00-17:00 | Met. Num. | Fisica IV    |--------------| Fisica III        | Comun. Dados |
+| 17:00-18:00 |-----------|--------------|--------------|-------------------|--------------|
+| 18:00-19:00 |-----------|--------------|--------------|-------------------|--------------|
+| 19:00-20:00 |-----------|--------------| Orient. Obj. | Automação         |--------------|
+| 20:00-21:00 |-----------|--------------| Orient. Obj. | Automação         |--------------|
+| 21:00-22:00 |-----------|--------------| Orient. Obj. | Automação         |--------------|
+| 22:00-23:00 |-----------|--------------| Orient. Obj. | Automação         |--------------|
 
 
 <p align='center'>
