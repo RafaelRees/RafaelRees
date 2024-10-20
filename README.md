@@ -13,7 +13,7 @@
 🎮 Jogos: Dota2 / LoL / Gw2 / WoW.<br/p>
 </p> 
     
-## Tabela das cadeiras a serem cursadas em 2023/1
+## Tabela das cadeiras a serem cursadas em 2024/2
 | Horário     | Segunda   | Terça        | Quarta       | Quinta            | Sexta        |
 |-------------|-----------|--------------|--------------|-------------------|--------------|
 | 07:00-08:00 |-----------|--------------|--------------|-------------------|--------------| 
