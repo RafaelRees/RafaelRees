@@ -1,39 +1,49 @@
-# Olá mundo👋 sou ✨*Rafael*✨
+<h2 align="left">Olá mundo👋 sou ✨*Rafael*✨</h2>
 
-<p> <img src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif" width="400" height="235" align="left">
-🇧🇷 Nacionalidade: Brasileiro.<br/p>
-📅 Data de nascimento: 14/04/1999.<br/p>
-📚 Estudante de Engenharia da Computação na UERGS.<br/p>
-🤓 Atualmente procurando oportunidade na area.<br/p> 
-💡 Eu amo inovação e novas tecnologias.<br/p>
-📈 2024: contribuir com mais projetos.<br/p>
-💻 Começando a aprender: VisualStudioCode, Python e C++.<br/p>
-🚀 Pretendo aprender: HTML, CSS, PHP, MySQL, Java e Ruby.<br/p> 
-⚡ Fato curioso: Adoro jogar e conversar com os amigos.<br/p>
-🎮 Jogos: Dota2 / LoL / Gw2 / WoW.<br/p>
-</p> 
-    
-## Tabela das cadeiras a serem cursadas em 2024/2
-| Horário     | Segunda   | Terça        | Quarta       | Quinta            | Sexta        |
-|-------------|-----------|--------------|--------------|-------------------|--------------|
-| 07:00-08:00 |-----------|--------------|--------------|-------------------|--------------| 
-| 08:00-09:00 |-----------| Gest. e Emp. |--------------| Circuit. Elet. II |--------------|    
-| 09:00-10:00 |-----------| Gest. e Emp. |--------------| Circuit. Elet. II |--------------|    
-| 10:00-11:00 |-----------| Gest. e Emp. |--------------| Circuit. Elet. II |--------------|
-| 11:00-12:00 |-----------| Gest. e Emp. |--------------| Circuit. Elet. II |--------------|
-| 12:00-13:00 | Almoco    | Almoco       | Almoco       | Almoco            |--------------|   
-| 13:00-14:00 | Met. Num. | Fisica IV    |--------------| Fisica III        | Comun. Dados |
-| 14:00-15:00 | Met. Num. | Fisica IV    |--------------| Fisica III        | Comun. Dados |
-| 15:00-16:00 | Met. Num. | Fisica IV    |--------------| Fisica III        | Comun. Dados |
-| 16:00-17:00 | Met. Num. | Fisica IV    |--------------| Fisica III        | Comun. Dados |
-| 17:00-18:00 |-----------|--------------|--------------|-------------------|--------------|
-| 18:00-19:00 |-----------|--------------|--------------|-------------------|--------------|
-| 19:00-20:00 |-----------|--------------| Orient. Obj. | Automação         |--------------|
-| 20:00-21:00 |-----------|--------------| Orient. Obj. | Automação         |--------------|
-| 21:00-22:00 |-----------|--------------| Orient. Obj. | Automação         |--------------|
-| 22:00-23:00 |-----------|--------------| Orient. Obj. | Automação         |--------------|
+###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelRees&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelRees&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align='center'>
-    <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" />
-</p>
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/RafaelRees/RafaelRees/output/snake.svg" alt="Snake animation" />
+
+###
